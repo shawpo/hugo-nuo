@@ -11,13 +11,13 @@
 
   & a {
     padding-bottom: 0.1em;
-    border-bottom: 1px dashed var(--green-light);
+    border-bottom: 1px dashed var(--blue-light);
     color: var(--primary);
     opacity: 1;
 
     &:focus,
     &:hover {
-      border-bottom: 1px solid var(--green-light);
+      border-bottom: 1px solid var(--blue-light);
     }
   }
 

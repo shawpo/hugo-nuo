@@ -43,10 +43,15 @@
   --green: rgb(95, 191, 94);
   --green-light: rgba(70, 185, 128, 0.5);
   --green-invert: var(--green);
+  --blue: #0097e6;
+  --blue-light: #00a8ff;
+  --blue-invert: var(--blue);
 
   /* Theme colors */
-  --primary: var(--green);
-  --primary-invert: var(--green-invert);
+  /* --primary: var(--green);
+  --primary-invert: var(--green-invert); */
+  --primary: var(--blue);
+  --primary-invert: var(--blue); 
   --light: var(--white-ter);
   --dark: var(--grey-darker);
   --background: var(--white-ter);
